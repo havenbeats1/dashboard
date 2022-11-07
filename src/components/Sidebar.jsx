@@ -20,7 +20,7 @@ const Sidebar = () => {
       <div className='flex justify-between
       items-center'>
         <Link to="/" onClick={() => {}}
-         className="items-center">
+         className="items-center gap-3 ml-3 mt-4">
           <SiShopware /> <span>Shoppy</span>
         </Link>
       </div>
